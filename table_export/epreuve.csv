@@ -1,0 +1,572 @@
+1	Aeronautics Mixed Aeronautics	Aeronautics
+2	Alpine Skiing Women's Super G	Alpine Skiing
+3	Alpine Skiing Women's Combined	Alpine Skiing
+4	Alpine Skiing Women's Slalom	Alpine Skiing
+5	Alpine Skiing Men's Slalom	Alpine Skiing
+6	Alpine Skiing Men's Combined	Alpine Skiing
+7	Alpine Skiing Men's Giant Slalom	Alpine Skiing
+8	Alpine Skiing Men's Super G	Alpine Skiing
+9	Alpine Skiing Men's Downhill	Alpine Skiing
+10	Alpine Skiing Women's Downhill	Alpine Skiing
+11	Alpine Skiing Women's Giant Slalom	Alpine Skiing
+12	Alpinism Mixed Alpinism	Alpinism
+13	Archery Men's Target Archery, 50 metres, Individual	Archery
+14	Archery Men's Pole Archery, Small Birds, Team	Archery
+15	Archery Women's Individual	Archery
+16	Archery Men's Target Archery, 50 metres, Team	Archery
+17	Archery Men's Team	Archery
+18	Archery Men's Target Archery, 28 metres, Individual	Archery
+19	Archery Men's Pole Archery, Large Birds, Team	Archery
+20	Archery Women's Team	Archery
+21	Archery Men's Individual	Archery
+22	Archery Men's Target Archery, 33 metres, Team	Archery
+23	Archery Men's Pole Archery, Small Birds, Individual	Archery
+24	Archery Men's Target Archery, 33 metres, Individual	Archery
+25	Archery Men's Target Archery, 28 metres, Team	Archery
+26	Archery Men's Pole Archery, Large Birds, Individual	Archery
+27	Athletics Women's 1,500 metres	Athletics
+28	Athletics Men's Decathlon	Athletics
+29	Athletics Men's 100 metres	Athletics
+30	Athletics Women's 4 x 100 metres Relay	Athletics
+31	Athletics Men's Triple Jump	Athletics
+32	Athletics Women's 3,000 metres Steeplechase	Athletics
+33	Athletics Women's Heptathlon	Athletics
+34	Athletics Men's 50 kilometres Walk	Athletics
+35	Athletics Men's Cross-Country, Individual	Athletics
+36	Athletics Women's Hammer Throw	Athletics
+37	Athletics Men's Cross-Country, Team	Athletics
+38	Athletics Men's 10,000 metres	Athletics
+39	Athletics Women's 5,000 metres	Athletics
+40	Athletics Women's 20 kilometres Walk	Athletics
+41	Athletics Men's 5,000 metres	Athletics
+42	Athletics Women's Discus Throw	Athletics
+43	Athletics Men's 10 kilometres Walk	Athletics
+44	Athletics Women's 100 metres	Athletics
+45	Athletics Women's 100 metres Hurdles	Athletics
+46	Athletics Women's 3,000 metres	Athletics
+47	Athletics Men's Javelin Throw	Athletics
+48	Athletics Women's Triple Jump	Athletics
+49	Athletics Women's Marathon	Athletics
+50	Athletics Men's Hammer Throw	Athletics
+51	Athletics Women's Long Jump	Athletics
+52	Athletics Women's Shot Put	Athletics
+53	Athletics Men's High Jump	Athletics
+54	Athletics Men's 400 metres Hurdles	Athletics
+55	Athletics Women's 200 metres	Athletics
+56	Athletics Women's Pentathlon	Athletics
+57	Athletics Women's 400 metres	Athletics
+58	Athletics Men's 56-pound Weight Throw	Athletics
+59	Athletics Women's Javelin Throw	Athletics
+60	Athletics Men's 4 x 100 metres Relay	Athletics
+61	Athletics Women's 10 kilometres Walk	Athletics
+62	Athletics Men's 3,000 metres Steeplechase	Athletics
+63	Athletics Men's 4 x 400 metres Relay	Athletics
+64	Athletics Men's 3,000 metres Walk	Athletics
+65	Athletics Women's 10,000 metres	Athletics
+66	Athletics Men's Discus Throw	Athletics
+67	Athletics Men's 1,500 metres	Athletics
+68	Athletics Women's 4 x 400 metres Relay	Athletics
+69	Athletics Men's Shot Put	Athletics
+70	Athletics Women's 400 metres Hurdles	Athletics
+71	Athletics Women's 80 metres Hurdles	Athletics
+72	Athletics Men's Marathon	Athletics
+73	Athletics Men's Pentathlon	Athletics
+74	Athletics Men's 200 metres	Athletics
+75	Athletics Men's 110 metres Hurdles	Athletics
+76	Athletics Men's Long Jump	Athletics
+77	Athletics Women's 800 metres	Athletics
+78	Athletics Men's Pole Vault	Athletics
+79	Athletics Men's 20 kilometres Walk	Athletics
+80	Athletics Women's Pole Vault	Athletics
+81	Athletics Men's 3,000 metres, Team	Athletics
+82	Athletics Women's High Jump	Athletics
+83	Athletics Men's 800 metres	Athletics
+84	Athletics Men's 400 metres	Athletics
+85	Badminton Mixed Doubles	Badminton
+86	Badminton Men's Singles	Badminton
+87	Badminton Men's Doubles	Badminton
+88	Badminton Women's Doubles	Badminton
+89	Badminton Women's Singles	Badminton
+90	Baseball Men's Baseball	Baseball
+91	Basketball Women's Basketball	Basketball
+92	Basketball Men's Basketball	Basketball
+93	Beach Volleyball Men's Beach Volleyball	Beach Volleyball
+94	Beach Volleyball Women's Beach Volleyball	Beach Volleyball
+95	Biathlon Women's 10 kilometres Pursuit	Biathlon
+96	Biathlon Men's 12.5 kilometres Pursuit	Biathlon
+97	Biathlon Men's 20 kilometres	Biathlon
+98	Biathlon Women's 7.5 kilometres Sprint	Biathlon
+99	Biathlon Women's 4 x 7.5 kilometres Relay	Biathlon
+100	Biathlon Men's 10 kilometres Sprint	Biathlon
+101	Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay	Biathlon
+102	Biathlon Women's 3 x 7.5 kilometres Relay	Biathlon
+199	Cycling Men's Points Race	Cycling
+103	Biathlon Women's 4 x 6 kilometres Relay	Biathlon
+104	Biathlon Men's 15 kilometres Mass Start	Biathlon
+105	Biathlon Women's 12.5 kilometres Mass Start	Biathlon
+106	Biathlon Men's 4 x 7.5 kilometres Relay	Biathlon
+107	Biathlon Women's 15 kilometres	Biathlon
+108	Bobsleigh Men's Four/Five	Bobsleigh
+109	Bobsleigh Men's Four	Bobsleigh
+110	Bobsleigh Women's Two	Bobsleigh
+111	Bobsleigh Men's Two	Bobsleigh
+112	Boxing Men's Heavyweight	Boxing
+113	Boxing Men's Flyweight	Boxing
+114	Boxing Men's Light-Flyweight	Boxing
+115	Boxing Men's Middleweight	Boxing
+116	Boxing Men's Light-Middleweight	Boxing
+117	Boxing Women's Lightweight	Boxing
+118	Boxing Women's Middleweight	Boxing
+119	Boxing Men's Featherweight	Boxing
+120	Boxing Men's Light-Welterweight	Boxing
+121	Boxing Men's Light-Heavyweight	Boxing
+122	Boxing Men's Super-Heavyweight	Boxing
+123	Boxing Women's Flyweight	Boxing
+124	Boxing Men's Welterweight	Boxing
+125	Boxing Men's Bantamweight	Boxing
+126	Boxing Men's Lightweight	Boxing
+127	Canoeing Men's Canadian Doubles, Slalom	Canoeing
+128	Canoeing Men's Kayak Singles, 200 metres	Canoeing
+129	Canoeing Women's Kayak Singles, Slalom	Canoeing
+130	Canoeing Men's Canadian Doubles, 1,000 metres	Canoeing
+131	Canoeing Women's Kayak Singles, 500 metres	Canoeing
+132	Canoeing Men's Kayak Doubles, 200 metres	Canoeing
+133	Canoeing Men's Kayak Relay 4 x 500 metres	Canoeing
+134	Canoeing Women's Kayak Doubles, 500 metres	Canoeing
+135	Canoeing Men's Kayak Fours, 1,000 metres	Canoeing
+136	Canoeing Men's Kayak Doubles, 1,000 metres	Canoeing
+137	Canoeing Men's Kayak Doubles, 10,000 metres	Canoeing
+138	Canoeing Women's Kayak Fours, 500 metres	Canoeing
+139	Canoeing Men's Canadian Singles, Slalom	Canoeing
+140	Canoeing Men's Canadian Singles, 10,000 metres	Canoeing
+141	Canoeing Men's Canadian Singles, 500 metres	Canoeing
+142	Canoeing Men's Kayak Singles, Slalom	Canoeing
+143	Canoeing Men's Kayak Singles, 10,000 metres	Canoeing
+144	Canoeing Men's Canadian Singles, 200 metres	Canoeing
+145	Canoeing Men's Kayak Doubles, 500 metres	Canoeing
+146	Canoeing Men's Kayak Singles, 1,000 metres	Canoeing
+147	Canoeing Men's Folding Kayak Singles, 10 kilometres	Canoeing
+148	Canoeing Men's Canadian Doubles, 500 metres	Canoeing
+149	Canoeing Men's Kayak Singles, 500 metres	Canoeing
+150	Canoeing Women's Kayak Singles, 200 metres	Canoeing
+151	Canoeing Men's Canadian Doubles, 10,000 metres	Canoeing
+152	Canoeing Men's Canadian Singles, 1,000 metres	Canoeing
+153	Canoeing Men's Folding Kayak Doubles, 10 kilometres	Canoeing
+154	Cross Country Skiing Women's 4 x 5 kilometres Relay	Cross Country Skiing
+155	Cross Country Skiing Men's 50 kilometres	Cross Country Skiing
+156	Cross Country Skiing Women's Sprint	Cross Country Skiing
+157	Cross Country Skiing Women's 10 kilometres	Cross Country Skiing
+158	Cross Country Skiing Men's 10/10 kilometres Pursuit	Cross Country Skiing
+159	Cross Country Skiing Women's 15 kilometres	Cross Country Skiing
+160	Cross Country Skiing Women's 15 km Skiathlon	Cross Country Skiing
+161	Cross Country Skiing Men's 30 km Skiathlon	Cross Country Skiing
+162	Cross Country Skiing Women's 20 kilometres	Cross Country Skiing
+163	Cross Country Skiing Men's Sprint	Cross Country Skiing
+164	Cross Country Skiing Men's 4 x 10 kilometres Relay	Cross Country Skiing
+165	Cross Country Skiing Men's 10 kilometres	Cross Country Skiing
+166	Cross Country Skiing Women's Team Sprint	Cross Country Skiing
+167	Cross Country Skiing Women's 5/5 kilometres Pursuit	Cross Country Skiing
+168	Cross Country Skiing Men's 15 kilometres	Cross Country Skiing
+169	Cross Country Skiing Women's 5 kilometres	Cross Country Skiing
+170	Cross Country Skiing Men's 30 kilometres	Cross Country Skiing
+171	Cross Country Skiing Women's 5/10 kilometres Pursuit	Cross Country Skiing
+172	Cross Country Skiing Women's 30 kilometres	Cross Country Skiing
+173	Cross Country Skiing Men's 10/15 kilometres Pursuit	Cross Country Skiing
+174	Cross Country Skiing Women's 3 x 5 kilometres Relay	Cross Country Skiing
+175	Cross Country Skiing Men's Team Sprint	Cross Country Skiing
+176	Cross Country Skiing Men's 18 kilometres	Cross Country Skiing
+177	Curling Women's Curling	Curling
+178	Curling Men's Curling	Curling
+179	Cycling Women's Team Pursuit	Cycling
+180	Cycling Women's Road Race, Individual	Cycling
+181	Cycling Men's Road Race, Individual	Cycling
+182	Cycling Women's Individual Time Trial	Cycling
+183	Cycling Men's Keirin	Cycling
+184	Cycling Women's Sprint	Cycling
+185	Cycling Women's BMX	Cycling
+186	Cycling Women's Points Race	Cycling
+187	Cycling Men's 100 kilometres Team Time Trial	Cycling
+188	Cycling Women's Mountainbike, Cross-Country	Cycling
+189	Cycling Women's Individual Pursuit, 3,000 metres	Cycling
+190	Cycling Men's Omnium	Cycling
+191	Cycling Men's Sprint	Cycling
+192	Cycling Men's Road Race, Team	Cycling
+193	Cycling Women's Team Sprint	Cycling
+194	Cycling Women's 500 metres Time Trial	Cycling
+195	Cycling Men's 50 kilometres	Cycling
+196	Cycling Men's Tandem Sprint, 2,000 metres	Cycling
+197	Cycling Men's Mountainbike, Cross-Country	Cycling
+198	Cycling Women's Omnium	Cycling
+200	Cycling Men's Individual Pursuit, 4,000 metres	Cycling
+201	Cycling Men's BMX	Cycling
+202	Cycling Men's 1,000 metres Time Trial	Cycling
+203	Cycling Men's Individual Time Trial	Cycling
+204	Cycling Women's Keirin	Cycling
+205	Cycling Men's Team Sprint	Cycling
+206	Cycling Men's Team Pursuit, 4,000 metres	Cycling
+207	Cycling Men's Madison	Cycling
+208	Diving Women's Platform	Diving
+209	Diving Men's Springboard	Diving
+210	Diving Men's Synchronized Platform	Diving
+211	Diving Women's Synchronized Springboard	Diving
+212	Diving Men's Platform	Diving
+213	Diving Women's Springboard	Diving
+214	Diving Men's Synchronized Springboard	Diving
+215	Diving Women's Plain High	Diving
+216	Diving Women's Synchronized Platform	Diving
+217	Diving Men's Plain High	Diving
+218	Equestrianism Men's Three-Day Event, Individual	Equestrianism
+219	Equestrianism Mixed Jumping, Individual	Equestrianism
+220	Equestrianism Mixed Three-Day Event, Team	Equestrianism
+221	Equestrianism Mixed Three-Day Event, Individual	Equestrianism
+222	Equestrianism Men's Vaulting, Team	Equestrianism
+223	Equestrianism Mixed Dressage, Team	Equestrianism
+224	Equestrianism Men's Jumping, Individual	Equestrianism
+225	Equestrianism Mixed Jumping, Team	Equestrianism
+226	Equestrianism Mixed Dressage, Individual	Equestrianism
+227	Equestrianism Men's Jumping, Team	Equestrianism
+228	Equestrianism Men's Three-Day Event, Team	Equestrianism
+229	Equestrianism Men's Vaulting, Individual	Equestrianism
+230	Equestrianism Men's Dressage, Individual	Equestrianism
+231	Equestrianism Men's Dressage, Team	Equestrianism
+232	Fencing Men's Foil, Individual	Fencing
+233	Fencing Men's Sabre, Individual	Fencing
+234	Fencing Women's epee, Team	Fencing
+235	Fencing Men's Sabre, Team	Fencing
+236	Fencing Men's epee, Individual	Fencing
+237	Fencing Men's Foil, Team	Fencing
+238	Fencing Women's Sabre, Individual	Fencing
+239	Fencing Men's epee, Team	Fencing
+240	Fencing Women's epee, Individual	Fencing
+241	Fencing Women's Foil, Team	Fencing
+242	Fencing Women's Foil, Individual	Fencing
+243	Fencing Women's Sabre, Team	Fencing
+244	Figure Skating Mixed Team	Figure Skating
+245	Figure Skating Women's Singles	Figure Skating
+246	Figure Skating Mixed Pairs	Figure Skating
+247	Figure Skating Men's Singles	Figure Skating
+248	Figure Skating Mixed Ice Dancing	Figure Skating
+249	Football Women's Football	Football
+250	Football Men's Football	Football
+251	Freestyle Skiing Women's Moguls	Freestyle Skiing
+252	Freestyle Skiing Women's Slopestyle	Freestyle Skiing
+253	Freestyle Skiing Women's Aerials	Freestyle Skiing
+254	Freestyle Skiing Men's Moguls	Freestyle Skiing
+255	Freestyle Skiing Men's Slopestyle	Freestyle Skiing
+256	Freestyle Skiing Men's Ski Cross	Freestyle Skiing
+257	Freestyle Skiing Women's Ski Cross	Freestyle Skiing
+258	Freestyle Skiing Men's Aerials	Freestyle Skiing
+259	Freestyle Skiing Women's Halfpipe	Freestyle Skiing
+260	Freestyle Skiing Men's Halfpipe	Freestyle Skiing
+261	Golf Men's Individual	Golf
+262	Golf Women's Individual	Golf
+263	Gymnastics Women's Balance Beam	Gymnastics
+264	Gymnastics Men's Horse Vault	Gymnastics
+265	Gymnastics Men's Team All-Around, Swedish System	Gymnastics
+266	Gymnastics Men's Floor Exercise	Gymnastics
+267	Gymnastics Men's Horizontal Bar	Gymnastics
+268	Gymnastics Men's Team All-Around, Free System	Gymnastics
+269	Gymnastics Men's Rings	Gymnastics
+270	Gymnastics Men's Club Swinging	Gymnastics
+271	Gymnastics Men's Side Horse	Gymnastics
+272	Gymnastics Men's Individual All-Around	Gymnastics
+273	Gymnastics Women's Horse Vault	Gymnastics
+274	Gymnastics Men's Team All-Around	Gymnastics
+275	Gymnastics Men's Tumbling	Gymnastics
+276	Gymnastics Men's Rope Climbing	Gymnastics
+277	Gymnastics Men's Parallel Bars	Gymnastics
+278	Gymnastics Women's Individual All-Around	Gymnastics
+279	Gymnastics Women's Uneven Bars	Gymnastics
+280	Gymnastics Women's Floor Exercise	Gymnastics
+281	Gymnastics Women's Team Portable Apparatus	Gymnastics
+282	Gymnastics Men's Pommelled Horse	Gymnastics
+283	Gymnastics Women's Team All-Around	Gymnastics
+284	Handball Men's Handball	Handball
+285	Handball Women's Handball	Handball
+286	Hockey Women's Hockey	Hockey
+287	Hockey Men's Hockey	Hockey
+288	Ice Hockey Women's Ice Hockey	Ice Hockey
+289	Ice Hockey Men's Ice Hockey	Ice Hockey
+290	Judo Women's Heavyweight	Judo
+291	Judo Men's Lightweight	Judo
+292	Judo Men's Heavyweight	Judo
+293	Judo Men's Half-Middleweight	Judo
+294	Judo Women's Extra-Lightweight	Judo
+295	Judo Women's Half-Heavyweight	Judo
+296	Judo Women's Half-Lightweight	Judo
+297	Judo Men's Half-Heavyweight	Judo
+298	Judo Women's Lightweight	Judo
+299	Judo Men's Extra-Lightweight	Judo
+300	Judo Men's Middleweight	Judo
+301	Judo Men's Open Class	Judo
+302	Judo Women's Half-Middleweight	Judo
+303	Judo Women's Middleweight	Judo
+304	Judo Men's Half-Lightweight	Judo
+305	Luge Mixed Team Relay	Luge
+306	Luge Mixed (Men)'s Doubles	Luge
+307	Luge Men's Singles	Luge
+308	Luge Women's Singles	Luge
+309	Military Ski Patrol Men's Military Ski Patrol	Military Ski Patrol
+310	Modern Pentathlon Men's Individual	Modern Pentathlon
+311	Modern Pentathlon Men's Team	Modern Pentathlon
+312	Modern Pentathlon Women's Individual	Modern Pentathlon
+313	Nordic Combined Men's Sprint	Nordic Combined
+314	Nordic Combined Men's Individual	Nordic Combined
+315	Nordic Combined Men's Normal Hill / 10 km, Individual	Nordic Combined
+316	Nordic Combined Men's Team	Nordic Combined
+317	Nordic Combined Men's Large Hill / 10 km, Individual	Nordic Combined
+318	Polo Men's Polo	Polo
+319	Rhythmic Gymnastics Women's Individual	Rhythmic Gymnastics
+320	Rhythmic Gymnastics Women's Group	Rhythmic Gymnastics
+321	Rowing Men's Double Sculls	Rowing
+322	Rowing Men's Quadruple Sculls	Rowing
+323	Rowing Women's Coxed Eights	Rowing
+324	Rowing Women's Quadruple Sculls	Rowing
+325	Rowing Men's Coxed Fours	Rowing
+326	Rowing Men's Coxless Pairs	Rowing
+327	Rowing Men's Coxed Pairs	Rowing
+328	Rowing Men's Lightweight Double Sculls	Rowing
+329	Rowing Men's Lightweight Coxless Fours	Rowing
+330	Rowing Men's Coxless Fours	Rowing
+331	Rowing Men's Coxed Eights	Rowing
+332	Rowing Women's Coxed Quadruple Sculls	Rowing
+333	Rowing Women's Lightweight Double Sculls	Rowing
+334	Rowing Women's Double Sculls	Rowing
+335	Rowing Women's Coxless Fours	Rowing
+336	Rowing Women's Single Sculls	Rowing
+337	Rowing Women's Coxed Fours	Rowing
+338	Rowing Men's Single Sculls	Rowing
+339	Rowing Women's Coxless Pairs	Rowing
+340	Rugby Men's Rugby	Rugby
+341	Rugby Sevens Men's Rugby Sevens	Rugby Sevens
+342	Rugby Sevens Women's Rugby Sevens	Rugby Sevens
+343	Sailing Mixed Two Person Heavyweight Dinghy	Sailing
+344	Sailing Men's One Person Dinghy	Sailing
+345	Sailing Mixed 40 metres	Sailing
+346	Sailing Women's Windsurfer	Sailing
+347	Sailing Mixed 18 foot	Sailing
+348	Sailing Women's One Person Dinghy	Sailing
+349	Sailing Mixed One Person Dinghy	Sailing
+350	Sailing Women's Skiff	Sailing
+351	Sailing Women's Two Person Dinghy	Sailing
+352	Sailing Mixed Windsurfer	Sailing
+353	Sailing Mixed 8 metres	Sailing
+354	Sailing Men's Two Person Keelboat	Sailing
+355	Sailing Mixed 7 metres	Sailing
+356	Sailing Mixed 12 foot	Sailing
+357	Sailing Men's Skiff	Sailing
+358	Sailing Mixed 12 metres	Sailing
+359	Sailing Men's Two Person Dinghy	Sailing
+360	Sailing Mixed Two Person Dinghy	Sailing
+361	Sailing Women's Three Person Keelboat	Sailing
+362	Sailing Mixed 6 metres	Sailing
+363	Sailing Mixed Two Person Keelboat	Sailing
+364	Sailing Mixed 6.5 metres	Sailing
+365	Sailing Men's One Person Heavyweight Dinghy	Sailing
+366	Sailing Mixed Multihull	Sailing
+367	Sailing Mixed 5.5 metres	Sailing
+368	Sailing Mixed 30 metres	Sailing
+369	Sailing Men's Windsurfer	Sailing
+370	Sailing Mixed 10 metres	Sailing
+371	Sailing Mixed Skiff	Sailing
+372	Sailing Mixed Three Person Keelboat	Sailing
+373	Shooting Men's Running Target, Double Shot	Shooting
+374	Shooting Women's Air Pistol, 10 metres	Shooting
+375	Shooting Women's Small-Bore Rifle, Three Positions, 50 metres	Shooting
+376	Shooting Men's Air Pistol, 10 metres	Shooting
+377	Shooting Men's Military Pistol, 30 metres	Shooting
+378	Shooting Men's Small-Bore Rifle, Three Positions, 50 metres	Shooting
+379	Shooting Men's Military Rifle, Prone, 300 metres	Shooting
+380	Shooting Men's Military Rifle, Standing, 300 metres, Team	Shooting
+381	Shooting Men's Free Rifle, 400, 600 and 800 metres, Team	Shooting
+382	Shooting Women's Air Rifle, 10 metres	Shooting
+383	Shooting Men's Free Rifle, Three Positions, 300 metres	Shooting
+384	Shooting Mixed Small-Bore Rifle, Prone, 50 metres	Shooting
+385	Shooting Men's Air Rifle, 10 metres	Shooting
+386	Shooting Women's Trap	Shooting
+387	Shooting Men's Free Rifle, Prone, 600 metres	Shooting
+388	Shooting Mixed Running Target, 50 metres	Shooting
+389	Shooting Women's Sporting Pistol, 25 metres	Shooting
+390	Shooting Women's Skeet	Shooting
+391	Shooting Men's Small Bore-Rifle, Standing, 50 metres, Team	Shooting
+392	Shooting Men's Running Target, Single And Double Shot	Shooting
+393	Shooting Men's Unknown Event	Shooting
+394	Shooting Men's Running Target, Single Shot	Shooting
+395	Shooting Men's Double Trap	Shooting
+396	Shooting Mixed Skeet	Shooting
+397	Shooting Men's Military Rifle, Standing, 300 metres	Shooting
+398	Shooting Men's Skeet	Shooting
+399	Shooting Men's Running Target, 10 metres	Shooting
+400	Shooting Mixed Trap	Shooting
+401	Shooting Men's Running Target, Double Shot, Team	Shooting
+402	Shooting Women's Double Trap	Shooting
+403	Shooting Mixed Rapid-Fire Pistol, 25 metres	Shooting
+404	Shooting Men's Military Rifle, Prone, 600 metres, Team	Shooting
+405	Shooting Men's Free Rifle, Three Positions, 300 metres, Team	Shooting
+406	Shooting Mixed Free Pistol, 50 metres	Shooting
+407	Shooting Men's Running Target, 50 metres	Shooting
+408	Shooting Men's Trap	Shooting
+409	Shooting Men's Military Rifle, 300 metres and 600 metres, Prone, Team	Shooting
+410	Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres	Shooting
+411	Shooting Men's Free Pistol, 50 metres	Shooting
+412	Shooting Men's Rapid-Fire Pistol, 25 metres	Shooting
+413	Shooting Men's Small-Bore Rifle, Prone, 50 metres	Shooting
+414	Shooting Men's Military Pistol, Team	Shooting
+415	Shooting Men's Running Target, Single Shot, Team	Shooting
+416	Shooting Men's Military Rifle, Prone, 600 metres	Shooting
+417	Shooting Mixed Free Rifle, Three Positions, 300 metres	Shooting
+418	Shooting Men's Small-Bore Rifle, Standing, 50 metres	Shooting
+419	Shooting Men's Military Rifle, Prone, 300 metres, Team	Shooting
+420	Shooting Men's Trap, Team	Shooting
+421	Shooting Men's Free Pistol, 50 metres, Team	Shooting
+422	Short Track Speed Skating Women's 500 metres	Short Track Speed Skating
+423	Short Track Speed Skating Men's 1,500 metres	Short Track Speed Skating
+424	Short Track Speed Skating Men's 500 metres	Short Track Speed Skating
+425	Short Track Speed Skating Men's 1,000 metres	Short Track Speed Skating
+426	Short Track Speed Skating Men's 5,000 metres Relay	Short Track Speed Skating
+427	Short Track Speed Skating Women's 1,500 metres	Short Track Speed Skating
+428	Short Track Speed Skating Women's 1,000 metres	Short Track Speed Skating
+429	Short Track Speed Skating Women's 3,000 metres Relay	Short Track Speed Skating
+430	Skeleton Men's Skeleton	Skeleton
+431	Skeleton Women's Skeleton	Skeleton
+432	Ski Jumping Men's Large Hill, Individual	Ski Jumping
+433	Ski Jumping Men's Normal Hill, Individual	Ski Jumping
+434	Ski Jumping Women's Normal Hill, Individual	Ski Jumping
+435	Ski Jumping Men's Large Hill, Team	Ski Jumping
+436	Snowboarding Men's Giant Slalom	Snowboarding
+437	Snowboarding Men's Parallel Slalom	Snowboarding
+438	Snowboarding Men's Boardercross	Snowboarding
+439	Snowboarding Women's Parallel Slalom	Snowboarding
+440	Snowboarding Women's Boardercross	Snowboarding
+441	Snowboarding Women's Slopestyle	Snowboarding
+442	Snowboarding Men's Halfpipe	Snowboarding
+443	Snowboarding Men's Slopestyle	Snowboarding
+444	Snowboarding Women's Parallel Giant Slalom	Snowboarding
+445	Snowboarding Women's Giant Slalom	Snowboarding
+446	Snowboarding Men's Parallel Giant Slalom	Snowboarding
+447	Snowboarding Women's Halfpipe	Snowboarding
+448	Softball Women's Softball	Softball
+449	Speed Skating Women's 5,000 metres	Speed Skating
+450	Speed Skating Men's 1,500 metres	Speed Skating
+451	Speed Skating Men's 5,000 metres	Speed Skating
+452	Speed Skating Women's 3,000 metres	Speed Skating
+453	Speed Skating Women's 1,500 metres	Speed Skating
+454	Speed Skating Women's 1,000 metres	Speed Skating
+455	Speed Skating Men's 1,000 metres	Speed Skating
+456	Speed Skating Men's Team Pursuit (8 laps)	Speed Skating
+457	Speed Skating Women's Team Pursuit (6 laps)	Speed Skating
+458	Speed Skating Men's 500 metres	Speed Skating
+459	Speed Skating Women's 500 metres	Speed Skating
+460	Speed Skating Men's Allround	Speed Skating
+461	Speed Skating Men's 10,000 metres	Speed Skating
+462	Swimming Men's 200 metres Individual Medley	Swimming
+463	Swimming Men's 100 metres Butterfly	Swimming
+464	Swimming Men's 100 metres Breaststroke	Swimming
+465	Swimming Men's 100 metres Backstroke	Swimming
+466	Swimming Men's 200 metres Breaststroke	Swimming
+467	Swimming Women's 200 metres Backstroke	Swimming
+468	Swimming Women's 4 x 100 metres Freestyle Relay	Swimming
+469	Swimming Men's 400 metres Breaststroke	Swimming
+470	Swimming Men's 1,500 metres Freestyle	Swimming
+471	Swimming Women's 800 metres Freestyle	Swimming
+472	Swimming Men's 4 x 100 metres Medley Relay	Swimming
+473	Swimming Women's 100 metres Freestyle	Swimming
+474	Swimming Men's 4 x 200 metres Freestyle Relay	Swimming
+475	Swimming Women's 4 x 200 metres Freestyle Relay	Swimming
+476	Swimming Men's 400 metres Individual Medley	Swimming
+477	Swimming Women's 200 metres Freestyle	Swimming
+478	Swimming Men's 100 metres Freestyle	Swimming
+479	Swimming Men's 400 metres Freestyle	Swimming
+480	Swimming Men's 200 metres Freestyle	Swimming
+481	Swimming Women's 50 metres Freestyle	Swimming
+482	Swimming Men's 200 metres Butterfly	Swimming
+483	Swimming Women's 100 metres Breaststroke	Swimming
+484	Swimming Women's 200 metres Butterfly	Swimming
+485	Swimming Women's 300 metres Freestyle	Swimming
+486	Swimming Women's 200 metres Breaststroke	Swimming
+487	Swimming Women's 400 metres Individual Medley	Swimming
+488	Swimming Women's 100 metres Butterfly	Swimming
+489	Swimming Women's 4 x 100 metres Medley Relay	Swimming
+490	Swimming Women's 100 metres Backstroke	Swimming
+491	Swimming Men's 4 x 100 metres Freestyle Relay	Swimming
+492	Swimming Men's 200 metres Backstroke	Swimming
+493	Swimming Women's 10 kilometres Open Water	Swimming
+494	Swimming Women's 200 metres Individual Medley	Swimming
+495	Swimming Women's 400 metres Freestyle	Swimming
+496	Swimming Men's 50 metres Freestyle	Swimming
+497	Swimming Men's 10 kilometres Open Water	Swimming
+498	Synchronized Swimming Women's Duet	Synchronized Swimming
+499	Synchronized Swimming Women's Solo	Synchronized Swimming
+500	Synchronized Swimming Women's Team	Synchronized Swimming
+501	Table Tennis Men's Singles	Table Tennis
+502	Table Tennis Men's Doubles	Table Tennis
+503	Table Tennis Women's Doubles	Table Tennis
+504	Table Tennis Women's Team	Table Tennis
+505	Table Tennis Men's Team	Table Tennis
+506	Table Tennis Women's Singles	Table Tennis
+507	Taekwondo Men's Featherweight	Taekwondo
+508	Taekwondo Women's Welterweight	Taekwondo
+509	Taekwondo Women's Flyweight	Taekwondo
+510	Taekwondo Women's Featherweight	Taekwondo
+511	Taekwondo Men's Welterweight	Taekwondo
+512	Taekwondo Men's Flyweight	Taekwondo
+513	Taekwondo Women's Heavyweight	Taekwondo
+514	Taekwondo Men's Heavyweight	Taekwondo
+515	Tennis Women's Doubles	Tennis
+516	Tennis Women's Singles	Tennis
+517	Tennis Mixed Doubles	Tennis
+518	Tennis Men's Singles	Tennis
+519	Tennis Men's Doubles	Tennis
+520	Trampolining Women's Individual	Trampolining
+521	Trampolining Men's Individual	Trampolining
+522	Triathlon Men's Olympic Distance	Triathlon
+523	Triathlon Women's Olympic Distance	Triathlon
+524	Tug-Of-War Men's Tug-Of-War	Tug-Of-War
+525	Volleyball Men's Volleyball	Volleyball
+526	Volleyball Women's Volleyball	Volleyball
+527	Water Polo Women's Water Polo	Water Polo
+528	Water Polo Men's Water Polo	Water Polo
+529	Weightlifting Women's Super-Heavyweight	Weightlifting
+530	Weightlifting Men's Featherweight	Weightlifting
+531	Weightlifting Men's Super-Heavyweight	Weightlifting
+532	Weightlifting Women's Featherweight	Weightlifting
+533	Weightlifting Men's Light-Heavyweight	Weightlifting
+534	Weightlifting Women's Light-Heavyweight	Weightlifting
+535	Weightlifting Women's Flyweight	Weightlifting
+536	Weightlifting Women's Middleweight	Weightlifting
+537	Weightlifting Women's Lightweight	Weightlifting
+538	Weightlifting Men's Flyweight	Weightlifting
+539	Weightlifting Men's Heavyweight II	Weightlifting
+540	Weightlifting Men's Middleweight	Weightlifting
+541	Weightlifting Men's Middle-Heavyweight	Weightlifting
+542	Weightlifting Women's Heavyweight	Weightlifting
+543	Weightlifting Men's Heavyweight	Weightlifting
+544	Weightlifting Men's Bantamweight	Weightlifting
+545	Weightlifting Men's Heavyweight I	Weightlifting
+546	Weightlifting Men's Lightweight	Weightlifting
+547	Wrestling Men's Heavyweight, Freestyle	Wrestling
+548	Wrestling Men's Heavyweight, Greco-Roman	Wrestling
+549	Wrestling Men's Light-Heavyweight, Greco-Roman	Wrestling
+550	Wrestling Men's Super-Heavyweight, Greco-Roman	Wrestling
+551	Wrestling Men's Bantamweight, Greco-Roman	Wrestling
+552	Wrestling Men's Featherweight, Greco-Roman	Wrestling
+553	Wrestling Women's Featherweight, Freestyle	Wrestling
+554	Wrestling Men's Lightweight, Greco-Roman	Wrestling
+555	Wrestling Men's Super-Heavyweight, Freestyle	Wrestling
+556	Wrestling Men's Featherweight, Freestyle	Wrestling
+557	Wrestling Women's Heavyweight, Freestyle	Wrestling
+558	Wrestling Men's Light-Flyweight, Greco-Roman	Wrestling
+559	Wrestling Men's Welterweight, Freestyle	Wrestling
+560	Wrestling Men's Lightweight, Freestyle	Wrestling
+561	Wrestling Men's Welterweight, Greco-Roman	Wrestling
+562	Wrestling Men's Middleweight, Greco-Roman	Wrestling
+563	Wrestling Women's Middleweight, Freestyle	Wrestling
+564	Wrestling Women's Lightweight, Freestyle	Wrestling
+565	Wrestling Women's Flyweight, Freestyle	Wrestling
+566	Wrestling Men's Flyweight, Greco-Roman	Wrestling
+567	Wrestling Men's Bantamweight, Freestyle	Wrestling
+568	Wrestling Women's Light-Heavyweight, Freestyle	Wrestling
+569	Wrestling Men's Flyweight, Freestyle	Wrestling
+570	Wrestling Men's Middleweight, Freestyle	Wrestling
+571	Wrestling Men's Light-Flyweight, Freestyle	Wrestling
+572	Wrestling Men's Light-Heavyweight, Freestyle	Wrestling
